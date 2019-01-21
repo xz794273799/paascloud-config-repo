@@ -42,7 +42,7 @@ spring:
     host: smtp.163.com
     username: zhuhui8090@163.com
     password: xz19890428
-    port: 465
+    port: 25
     protocol: smtp
     test-connection: false
     default-encoding: UTF-8
