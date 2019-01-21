@@ -42,7 +42,7 @@ spring:
     host: smtp.sina.com.cn
     username: yayuu@sina.cn
     password: xz19890428
-    port: 994
+    port: 465
     protocol: smtp
     test-connection: false
     default-encoding: UTF-8
@@ -56,7 +56,7 @@ spring:
           writetimeout: 10000
           socketFactory:
             class: javax.net.ssl.SSLSocketFactory
-            port: 994
+            port: 465
           starttls:
             enable: true
             required: true
