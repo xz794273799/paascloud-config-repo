@@ -39,7 +39,7 @@ spring:
         login-username: admin
         login-password: admin
   mail:
-    host: smtp.sina.com.cn
+    host: smtp.sina.com
     username: yayuu@sina.cn
     password: xz19890428
     port: 465
