@@ -41,7 +41,7 @@ spring:
   mail:
     host: smtp.163.com
     username: zhuhui8090
-    password: xz19890428
+    password: xz8090
     port: 25
     protocol: smtp
     test-connection: false
